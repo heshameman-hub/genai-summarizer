@@ -1,0 +1,5 @@
+# Rename to application.properties locally and put your real key there (do NOT commit)
+openai.api.key=YOUR_OPENAI_API_KEY_HERE
+openai.api.url=https://api.openai.com/v1/chat/completions
+server.port=8080
+spring.cache.type=simple
